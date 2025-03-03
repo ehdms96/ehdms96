@@ -10,27 +10,33 @@
 >3. 집중하고 천착하라.
 
 
-## **🎓학력**
 
-`2016.03` 한양대학교 공과대학 컴퓨터소프트웨어학부 입학
+## **🎓Education**
 
-`2022.02` 한양대학교 공과대학 컴퓨터소프트웨어학부 졸업
+`B.S.` in Computer Science and Software Engineering, Hanyang University,  2016 ~ 2022 
 
-`2022.03` 한양대학교 일반대학원 컴퓨터소프트소프트웨어학과 입학 (석박통합과정)
+`Integrated MS/Ph.D` in Computer Science and Software Engineering, Hanyang University, 2022 ~
+
+
 
 ## 📝**Used Tool & Skill**
+
+### **Open Source Contributions** [FEMU](https://github.com/MoatLab/FEMU)
 
 ### **Tool** <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 ### **Skill** <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdms96&hide=Assembly,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 👩🏻‍💻전공
+
+## 👩🏻‍💻Research
 
 `System Software` `Storage System(FTL, NVMe, File System)`  in [S.P.Lab.](http://splab.hanyang.ac.kr/)
 
-## 🧾**경력 기술서**
+
+## 🧾**Professional Experience**
 
 > ![Paper](https://img.shields.io/badge/논문-1편-purple) ( 국내 : 0 편, 해외 : 1 편 / 주저자 : 1 편 [SCI급 주저자 : 1 편] ) 
 > - **Doeun Kim**, Jinyoung Kim, Kihan Choi, Hyuck Han, Minsoo Ryu, Sooyong Kang, "[Dynamic Zone Redistribution for Key-Value Stores on Zoned Namespaces SSDs](https://www.sciencedirect.com/science/article/pii/S1383762124000961)", Journal of Systems Architecture (IF 4.5), Vol. 152, July 2024
@@ -44,7 +50,9 @@
 > - 오세찬, 윤성준, 최수형, 한호범, 김경진, 최기한, **김도은**, 윤상원, 강수용. (2022.06). "[자율주행 시뮬레이터와 엣지 컴퓨팅을 활용한 교차로 꼬리물기 방지 기법](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11108503&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true)". 한국통신학회 학술대회논문집
 > - 김경진, 최기한, **김도은**, 오세찬, 윤성준, 최수형, 한호범, 윤상원, 강수용. (2021.11). "[엣지 컴퓨팅을 이용한 교차로 꼬리물기 방지 서비스](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11035031&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&nodeHistoryTotalCnt=2&accessgl=Y&language=ko_KR&hasTopBanner=true)". 한국자동차공학회 추계학술대회 및 전시회.
 
-## 📚 **주요 연구경력**
+
+
+## 📚 **Research Experience**
 
 **ZNS SSD의 쓰기 증폭 완화를 위한 효율적인 파일시스템 개발**
 
